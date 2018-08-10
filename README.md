@@ -6,7 +6,7 @@ A simple Python-script to mess with scammers.
 To run the script, you need PIP/PIP3 and **import requests**
 * $ sudo pip install requests
 
-To modify the script to work, you need to get the field-names(eg. Username, Password) from the network log (chrome console works fine) to the form that you want to flood.  
+To modify the script to work, you need to get the POST-url & field-names(eg. Username, Password) from the network log (chrome console works fine) to the form that you want to flood.  
 
 
 **Simple way to increase the length of the namelist in JSON-format.**
