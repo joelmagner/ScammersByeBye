@@ -8,8 +8,7 @@ import json
 chars = string.ascii_letters + string.digits + '!@#$%^&*()'
 random.seed = (os.urandom(1024))
 
-
-url = 'https://support-appleid-apple.service-legal-filedata.com/assets/includes/ProcessLogin.php'
+url = 'https://UrlToTheForm'
 names = json.loads(open('names.json').read())
 
 for name in names:
