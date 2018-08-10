@@ -7,3 +7,6 @@ To run the script, you need PIP/PIP3 and **import requests**
 * $ sudo pip install requests
 
 To modify the script to work, you need to get the field-name from the network log (chrome console works fine) for the form that you want to flood. 
+
+
+![alt text](https://i.imgur.com/tH2JNrS.png)
